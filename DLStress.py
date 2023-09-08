@@ -4,8 +4,6 @@
 The files contain code and data associated with the paper titled
 "Stress distribution analysis in ZrB2-SiC based thermal protection system using machine learning driven approach".
 
-The paper is authored by Carmine Zuccarini, Karthikeyan Ramachandran and Doni Daniel Jayaseelan and published at Journal of The Royal Society Interface, 2018.
-
 The file list:
 
 ShapeData.mat, Thermo.mat, DLStress.py, im2patch.m,
